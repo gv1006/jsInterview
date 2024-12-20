@@ -12,3 +12,8 @@ node map.js
 ```bash
 node filter.js
 ```
+
+***How to run reduce***
+```bash
+node reduce.js
+```
