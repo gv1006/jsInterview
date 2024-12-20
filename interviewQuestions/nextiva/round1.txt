@@ -1,0 +1,6 @@
+1. Tell me about yourself
+2. Leetcode coding question - isomorphic strings
+3. What is virtual DOM in react
+4. Controlled vs uncontrolled components
+5. what is virutal DOM
+6. what is closure
